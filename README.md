@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/b4cb5f2a-8f2b-423f-9e19-967cccbae6c7)# Lidar_Windows📡
+# Lidar_Windows📡
 My team of interns and I used Lidar on Windows to explore smart applications, such as self-driving cars and robots. I will explain what we accomplished at Smart Methods Inc.
 
 ## What is LIDAR?
